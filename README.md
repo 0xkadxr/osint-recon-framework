@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/osint-recon-framework/actions/workflows/ci.yml/badge.svg)
+
 # OSINTRecon
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
